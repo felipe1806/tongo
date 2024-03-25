@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <title>O GIGANTE</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1 style="text-align: center">Sobre o Timão</h1>
+
+    <p>
+        O Corinthians, atual campeão Mundial de Clubes da FIFA e da Copa Bridgestone Libertadores, é o melhor time das
+        Américas segundo um relatório divulgado pela Pluri Consultoria. Porém, não foram só essas conquistas que
+        ajudaram o Timão a garantir a ponta do novo ranking.</p>
+    <img src="timao.jpg" alt=""> 
+    <p style="font-size: 20px"><em><strong>Não existe nada e ninguém maior que o Corinthians</strong>.</em></p>
+
+    <p>Alguns títulos do Gigante: Mundial de Clubes (2000) ...
+        Copa Libertadores da América (2012) ...
+        Mundial de Clubes (2012) ...
+        Recopa Sul-Americana (2013) ...
+        Campeonato Brasileiro (1990) ...
+        Bicampeonato Brasileiro (1998) ...
+        Tricampeonato Brasileiro (1999) ...
+        Tetracampeonato Brasileiro (2005).</p>
+</body>
+
+</html>
